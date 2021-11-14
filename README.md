@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of the analysis is to utilize SQLAlchemy methods to connect to a SQLite object and query information about weather conditions (temperature and precipitation) for dates within the month of June and December. 
+The purpose of the analysis is to utilize SQLAlchemy methods to connect to a SQLite object and query information about weather conditions (temperature and precipitation) for dates within the months of June and December in Hawaii.
 
 ## Section 2: Results
 
