@@ -28,7 +28,7 @@ The purpose of the analysis is to utilize SQLAlchemy methods to connect to a SQL
 
 Two additional queries were performed to calculate descriptive statistics for precipitation conditions. The results of these queries can be consulted in "SurfsUp_Challenge.ipynb". The results of this queries will be used to inform the summary provided below.
 
-### Sumamry
+### Summary
 
 In terms of summarizing the results of calculating decriptive statistics for temperature and precipitation for the months of June and December in Hawaii, not a lot can be concluded. Nevertheless, it seems reasonable to suggest, based on the statistics, that temperature in June is hotter than in December. On the other hand, there seems to be more precipitation in December, historically, that there has been in June. 
 
